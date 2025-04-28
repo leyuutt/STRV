@@ -576,26 +576,34 @@ function Profile() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-gray-900 rounded-lg p-6 text-center">
               <div className="w-24 h-24 bg-gray-800 rounded-full mx-auto mb-4"></div>
-              <h3 className="text-xl font-bold mb-2">John Doe</h3>
+              <h3 className="text-xl font-bold mb-2">Edlawit Tesfaye</h3>
               <p className="text-gray-400 mb-4">Founder & CEO</p>
               <p className="text-gray-500 text-sm">
-                With over 10 years of experience in design and branding, John leads our creative vision.
+                With Coding experience
               </p>
             </div>
             <div className="bg-gray-900 rounded-lg p-6 text-center">
               <div className="w-24 h-24 bg-gray-800 rounded-full mx-auto mb-4"></div>
-              <h3 className="text-xl font-bold mb-2">Jane Smith</h3>
-              <p className="text-gray-400 mb-4">Lead Designer</p>
+              <h3 className="text-xl font-bold mb-2">Debora Belay</h3>
+              <p className="text-gray-400 mb-4">Product Designer</p>
               <p className="text-gray-500 text-sm">
-                Jane brings her artistic talent to create stunning sticker designs that our customers love.
+                Debora brings her artistic talent to create stunning sticker designs that our customers love.
               </p>
             </div>
             <div className="bg-gray-900 rounded-lg p-6 text-center">
               <div className="w-24 h-24 bg-gray-800 rounded-full mx-auto mb-4"></div>
-              <h3 className="text-xl font-bold mb-2">Mike Johnson</h3>
+              <h3 className="text-xl font-bold mb-2">Ahadu Getachew <br/> and Maramawit Fasil</h3>
               <p className="text-gray-400 mb-4">Customer Relations</p>
               <p className="text-gray-500 text-sm">
-                Mike ensures that every customer has an exceptional experience with our products and services.
+                Ahadu and Mary ensures that every customer has an exceptional experience with our products and services.
+              </p>
+            </div>
+            <div className="bg-gray-900 rounded-lg p-6 text-center">
+              <div className="w-24 h-24 bg-gray-800 rounded-full mx-auto mb-4"></div>
+              <h3 className="text-xl font-bold mb-2">Isreal Sirak <br/> and Eyuel Tibebu</h3>
+              <p className="text-gray-400 mb-4">Fiance managers</p>
+              <p className="text-gray-500 text-sm">
+               leads the financial strategy and operations by ensuring strong fiscal health and smart growth
               </p>
             </div>
           </div>
@@ -604,9 +612,9 @@ function Profile() {
         <div className="bg-gray-900 p-8 rounded-lg mb-16">
           <h2 className="text-2xl font-bold mb-6 text-center">Our Story</h2>
           <p className="text-gray-400 mb-4">
-            Founded in 2018, our sticker company began with a simple mission: to provide high-quality, affordable
-            stickers that allow people to express themselves. What started as a small operation in a garage has grown
-            into a thriving business serving customers throughout Ethiopia.
+            Founded in 2025, our sticker company began with a simple mission: to provide high-quality, affordable
+            stickers that allow people to express themselves. What started as a small operation in a Entrepreneurship class has grown
+            into a thriving business serving customers throughout AAIT
           </p>
           <p className="text-gray-400">
             We take pride in our commitment to quality, creativity, and customer satisfaction. Every sticker we produce
