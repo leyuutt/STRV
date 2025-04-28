@@ -9,7 +9,7 @@ import movData from "./movData"
 import MobileMenu from "./MobileMenu"
 import logo from './assets/logo.jpg'
 import Delivery from './components/Delivery/Delivery'
-
+import { SiFandango } from 'react-icons/si'
 // Modal Component for Sticker Details
 function StickerModal({ sticker, onClose }: any) {
   if (!sticker) return null
@@ -59,16 +59,9 @@ function Sidebar() {
     >
       <div className="p-4">
         <div className="flex items-center gap-3 mb-12">
-          <div
-              >
-            <img
-              src={logo}
-              alt="STRV Logo"
-              width={collapsed ? 49 : 64}
-              height={collapsed ? 49 : 64}
-              className="object-contain"
-            />
-          </div>
+        <div className="logo">
+                    < SiFandango  />
+                </div>
           {!collapsed && (
             <div className="flex flex-col">
               <span className="text-xl font-bold text-white">STRV</span>
